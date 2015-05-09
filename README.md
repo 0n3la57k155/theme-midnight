@@ -1,8 +1,8 @@
 Theme Midnight
 ==============
 
-- Author: [Luca Marra](http://facciocose.it)
-- Compatibility: Miniflux 1.1.6
+- Original author: [Luca Marra](http://facciocose.it)
+- Compatibility: Miniflux 1.1.7
 
 Screenshot
 ----------

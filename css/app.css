@@ -88,6 +88,7 @@ nav .active a {
     color: #efefef;
 }
 
+.panel,
 .alert,
 .alert-success,
 .alert-error,
@@ -129,15 +130,12 @@ textarea:focus {
     color: #666;
 }
 
-.btn-red,
 .btn-blue {
     border-color: #444;
     background: #333;
     color: #efefef;
 }
 
-.btn-red:hover,
-.btn-red:focus,
 .btn-blue:hover,
 .btn-blue:focus {
     border-color: #888;
